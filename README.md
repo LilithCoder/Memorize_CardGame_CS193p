@@ -3,6 +3,7 @@
 
 通过翻转卡牌来消除相同emoji的一对卡牌来获得分数
 
+个人demo：[link]()
 # 关于课程
 课程网站: [link](https://cs193p.sites.stanford.edu/)
 |     Lecture     |     Title    |    Slides    |     Notes    |     Video    |
