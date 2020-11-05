@@ -1,7 +1,7 @@
 # Memorize CardGame
 这是一个来自课程Stanford CS193p Developing Apps for iOS 2020 Spring 的翻转卡牌的iOS游戏, 运用了SwiftUI
 
-通过翻转卡牌来消除相同emoji的一对卡牌来获得分数
+通过翻转卡牌来消除相同emoji的一对卡牌来获得分数, 整个应用的设计架构是MVVM(Model-View-ViewModel)
 
 个人demo：[link]()
 # 关于课程
