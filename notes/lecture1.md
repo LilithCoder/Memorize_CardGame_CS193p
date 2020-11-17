@@ -1,3 +1,4 @@
+## Coding
 - keyword "some View" goes after variable means the type of this property is any type, as long as it behaves like a view, it might be returning a combiner(view-combining view), if it returns a combiner view, it could have tons of views that are combined
 - "body" variable's value is not stored in memory, this var is computed, every time ask for value of this var, code in curly braces will be executed
 almost all the arguments to all parameters of all functions are labeled, which was inherited from objective-c
